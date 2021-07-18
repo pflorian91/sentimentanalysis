@@ -9,6 +9,14 @@
 *.nar
 hs_err_pid*
 
+# specific files
+*application-local.properties
+temp/
+*training-data-157*
+test-data
+naive-bayes
+logistic-regression
+
 ##############################
 ## Maven
 ##############################
